@@ -11,7 +11,7 @@ gitee: [https://gitee.com/TangGarlic/CQU_RFID_2019.git](https://gitee.com/TangGa
 
 github: [https://github.com/TonyTang-dev/CQU_RFID_2019.git](https://github.com/TonyTang-dev/CQU_RFID_2019.git)
 
-CSDN： []()
+CSDN： [https://editor.csdn.net/md/?articleId=124368436](https://editor.csdn.net/md/?articleId=124368436)
 
 ## 注意事项
 
